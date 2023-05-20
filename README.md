@@ -1,5 +1,5 @@
 # modlauncher-update-test
  LF:CE Autoupdater Test repository
 
- This is a test repository for LF:CE Autoupdater
- We used this to test out our first autoupdater.
+ We used this repository to test our upcoming autoupdater
+ If your looking for LF:CE mod, please go to this repository: https://github.com/Lambdagon/tf_coop_lambda
